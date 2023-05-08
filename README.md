@@ -46,6 +46,9 @@
     <img src="https://img.shields.io/badge/ruby%20on%20rails-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" title="Ruby on Rails">
   </a>
   <a href="">
+    <img src="https://img.shields.io/badge/sinatra-c3beac?style=for-the-badge&logo=rubysinatra&logoColor=white" alt="Sinatra" title="Sinatra">
+  </a>
+  <a href="">
     <img src="https://img.shields.io/badge/flask-3776ab?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask">
   </a>  
   <a href="">
