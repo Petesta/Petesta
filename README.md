@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" title="Vim">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/visual%20%20studio%20code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code">
+    <img src="https://img.shields.io/badge/visual%20studio%20code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code">
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" title="Xcode">
